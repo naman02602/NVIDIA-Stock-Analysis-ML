@@ -6,8 +6,6 @@ This project aims to analyze NVIDIA's stock performance, compare it with competi
 ## Table of Contents
 - Project Overview
 - Data Sources
-- Installation
-- Usage
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Model Building and Evaluation
